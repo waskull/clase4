@@ -1,5 +1,5 @@
-const flechazo = () => {
-    console.log("Hola desde Flechazo")
+const flechita = () => {
+    console.log("Hola desde Flechita")
 }
 
-flechazo();
+flechita();
